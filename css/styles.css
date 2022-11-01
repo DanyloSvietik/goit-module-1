@@ -18,7 +18,8 @@ html {
 
 .container {
     width: 1200px;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .btn {
